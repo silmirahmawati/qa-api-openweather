@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_OpenWeather</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>20e13b91-d53a-4cd3-92e2-e2b18a4ad9f4</testCaseGuid>
+</TestCaseEntity>
