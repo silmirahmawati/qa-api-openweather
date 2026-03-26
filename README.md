@@ -256,6 +256,15 @@ This project applies <b>chained API testing</b>:
 
 </table>
 
+<hr> 
+
+<h2>📷 Execution Screenshot</h2>
+
+<p>This screenshot shows the successful execution result in Katalon Studio.</p>
+
+<div align="center">
+  <img src="asset/test-suite-result.png" alt="Katalon Test Suite Execution Result" width="900"/>
+</div>
 <hr>
 
 <h2>🌐 API Endpoints</h2>
